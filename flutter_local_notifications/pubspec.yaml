@@ -36,10 +36,10 @@ flutter:
       macos:
         pluginClass: FlutterLocalNotificationsPlugin
         dartPluginClass: MacOSFlutterLocalNotificationsPlugin
-      linux:
-        default_package: flutter_local_notifications_linux
-      windows:
-        default_package: flutter_local_notifications_windows
+#      linux:
+#        default_package: flutter_local_notifications_linux
+#      windows:
+#        default_package: flutter_local_notifications_windows
 
 environment:
   sdk: ^3.4.0
